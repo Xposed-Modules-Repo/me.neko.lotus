@@ -2,11 +2,11 @@
 
 # LotusXposed
 
-[![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.neko.lotus?label=stars&style=for-the-badge)](https://github.com/Xposed-Modules-Repo/me.neko.lotus)
-<a href="https://github.com/Xposed-Modules-Repo/me.neko.lotus/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.neko.lotus/total?label=Downloads&style=for-the-badge"></a>
-[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/me.neko.lotus?style=for-the-badge)](https://github.com/Xposed-Modules-Repo/me.neko.lotus/releases)
-<a href="https://t.me/LotusXposed"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram&style=for-the-badge"></a>  
-<a href="https://github.com/Xposed-Modules-Repo/me.neko.lotus/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Xposed-Modules-Repo/me.neko.lotus?style=for-the-badge"></a>
+[![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.neko.lotus?label=stars&style=flat-square)](https://github.com/Xposed-Modules-Repo/me.neko.lotus)
+<a href="https://github.com/Xposed-Modules-Repo/me.neko.lotus/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.neko.lotus/total?label=Downloads&style=flat-square"></a>
+[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/me.neko.lotus?style=flat-square)](https://github.com/Xposed-Modules-Repo/me.neko.lotus/releases)
+<a href="https://t.me/LotusXposed"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram&style=flat-square"></a>  
+<a href="https://github.com/Xposed-Modules-Repo/me.neko.lotus/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Xposed-Modules-Repo/me.neko.lotus?style=flat-square"></a>
 
 **一个多功能的增强模块，兼容主流社交与短视频应用**
 
