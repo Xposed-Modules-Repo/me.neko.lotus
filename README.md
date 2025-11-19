@@ -1,6 +1,6 @@
 <div align="center">
 
-# LotusXposed
+## LotusXposed
 
 [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.neko.lotus?label=stars&style=flat-square)](https://github.com/Xposed-Modules-Repo/me.neko.lotus)
 <a href="https://github.com/Xposed-Modules-Repo/me.neko.lotus/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/me.neko.lotus/total?label=Downloads&style=flat-square"></a>
@@ -8,18 +8,18 @@
 <a href="https://t.me/LotusXposed"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram&style=flat-square"></a>  
 <a href="https://github.com/Xposed-Modules-Repo/me.neko.lotus/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Xposed-Modules-Repo/me.neko.lotus?style=flat-square"></a>
 
-**一个多功能的增强模块，兼容主流社交与短视频应用**
+一个多功能的增强模块，兼容主流社交与短视频应用
 
 ---
 
-## 支持的框架
+### 支持的框架
 
 [![LSPosed](https://img.shields.io/badge/LSPosed-支持-green?style=flat-square)](https://github.com/LSPosed/LSPosed)
 [![LSPatch](https://img.shields.io/badge/LSPatch-支持-green?style=flat-square)](https://github.com/LSPosed/LSPatch)
 
 </div>
 
-## 说明:
+### 说明:
 
 > 在 GitHub 点击右上角 ⭐ Star 以支持我在空余时间继续开发
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 📱 支持的应用
+### 📱 支持的应用
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 </div>
 
-## 🚀 功能详情
+### 🚀 功能详情
 
 ### 🦐 皮皮虾
 <details>
