@@ -19,7 +19,7 @@
 
 </div>
 
-### 说明:
+## 说明:
 
 > 在 GitHub 点击右上角 ⭐ Star 以支持我在空余时间继续开发
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 📱 支持的应用
+## 📱 支持的应用
 
 <div align="center">
 
@@ -44,11 +44,11 @@
 
 </div>
 
-### 🚀 功能详情
+## 🚀 功能详情
 
 ### 🦐 皮皮虾
 <details>
-<summary><b>点击查看详细功能</b></summary>
+<summary>点击查看详细功能</summary>
 
 #### 基础功能
 - [x] 去除广告
@@ -89,7 +89,7 @@
 
 ### 📕 小红书
 <details>
-<summary><b>点击查看详细功能</b></summary>
+<summary>点击查看详细功能</summary>
 
 #### 下载功能
 - [x] 无水印下载图片
@@ -103,7 +103,7 @@
 
 ### ⚡ 快手 & 🚀 快手极速版
 <details>
-<summary><b>点击查看详细功能</b></summary>
+<summary>点击查看详细功能</summary>
 
 #### 基础功能
 - [x] 去除启动广告/闪屏广告
@@ -118,7 +118,7 @@
 
 ### 💫 Soul
 <details>
-<summary><b>点击查看详细功能</b></summary>
+<summary>点击查看详细功能</summary>
 
 #### 基础功能
 - [x] 去除广告
@@ -133,7 +133,7 @@
 
 ### 😄 最右
 <details>
-<summary><b>点击查看详细功能</b></summary>
+<summary>点击查看详细功能</summary>
 
 #### 基础功能
 - [x] 去除广告
@@ -146,7 +146,7 @@
 
 ### 😀 皮皮搞笑
 <details>
-<summary><b>点击查看详细功能</b></summary>
+<summary>点击查看详细功能</summary>
 
 #### 基础功能
 - [x] 去除广告
